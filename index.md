@@ -5,7 +5,7 @@
 ### Associate Data Analyst 
 
 [Credit risk analysis- Power BI](/sample_page)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+<img src="images/powerbi.png?raw=true"/>
 
 ---
 [Loan approval analysis- Machine learning and advanced analytics using Python](/pdf/sample_presentation.pdf)
