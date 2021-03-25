@@ -9,7 +9,7 @@
 
 ---
 [Loan approval analysis- Machine learning and advanced analytics using Python](/pdf/sample_presentation.pdf)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+<img src="images/mleval.png?raw=true"/>
 
 ---
 [Project 3 Title](http://example.com/)
