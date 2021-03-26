@@ -5,16 +5,14 @@
 ### Associate Data Analyst projects
 
 [Credit risk analysis via Power BI](/sample_page)
-
-[pbix](/pdf/CreditRiskAnalysis.pbix)
-
 <img src="images/powerbi.png?raw=true"/>
+[-> PBIX file](/pdf/CreditRiskAnalysis.pbix)
 
 
 ---
 [Loan approval analysis- Machine learning and advanced analytics using Python](/pdf/LoanApprovalAnalysis_Python.pptx)
 <img src="images/mleval.png?raw=true"/>
-
+[-> PPT file](/pdf/LoanApprovalAnalysis_Python.pptx)
 
 
 
