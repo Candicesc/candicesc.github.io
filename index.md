@@ -4,7 +4,7 @@
 
 ### Associate Data Analyst projects
 
-[Credit risk analysis- Power BI](/sample_page)
+[Credit risk analysis via Power BI](/sample_page)
 <img src="images/powerbi.png?raw=true"/>
 
 ---
