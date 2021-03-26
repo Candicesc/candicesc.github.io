@@ -29,6 +29,5 @@ State wise drilldown
 
 ### 4. Insights and recommendations 
 
-Recommendations
 <img src="images/insightspowerbi.png?raw=true"/>
 
