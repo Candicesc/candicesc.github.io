@@ -8,7 +8,7 @@
 <img src="images/powerbi.png?raw=true"/>
 
 ---
-[Loan approval analysis- Machine learning and advanced analytics using Python](/pdf/sample_presentation.pdf)
+[Loan approval analysis- Machine learning and advanced analytics using Python](/pdf/LoanApprovalAnalysis_Python.pptx)
 <img src="images/mleval.png?raw=true"/>
 
 
