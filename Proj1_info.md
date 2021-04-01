@@ -4,6 +4,8 @@
 A data analyst is tasked to perform loan analysis and to build Machine learning models to present to the Credit risk management of the bank
 with the insights on how to minimise default risk for small-medium enterprises under Commercial Banking.
 
+<img src="images/mlintro.png?raw=true"/>
+
 ### 1. Data collection
 Research from Kaggle: https://www.kaggle.com/mirbektoktogaraev/should-this-loan-be-approved-or-denied 
 
@@ -16,9 +18,15 @@ Research from Kaggle: https://www.kaggle.com/mirbektoktogaraev/should-this-loan-
 - Remove anomalies, inconsistencies and outliers
 - Clean unwanted data that won't add value to the analysisg
 
+<img src="images/mleda.png?raw=true"/>
+
 ### 3. Data analysis and visualization
 
 Some notable correlations are
+
+<img src="images/mlcorr.png?raw=true"/>
+
+<img src="images/mlviz.png?raw=true"/>
 
 ### 4. Machine learning model evaluation and recommendations 
 
