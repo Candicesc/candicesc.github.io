@@ -4,16 +4,16 @@
 
 ### Associate Data Analyst projects
 
-[Credit risk analysis via Power BI](/sample_page)
+[Credit risk analysis and interactive dashboard via Power BI](Proj 2 Credit Risk Analysis via Power BI/info2)
 <img src="images/powerbi.png?raw=true"/>
-[-> PBIX file](/pdf/CreditRiskAnalysis.pbix)
-
 
 ---
-[Loan approval analysis- Machine learning and advanced analytics using Python](/pdf/LoanApprovalAnalysis_Python.pptx)
+[Loan approval analysis- Machine learning and advanced analytics using Python](Proj 1 ML and advanced analytics with Python/info1)
 <img src="images/mleval.png?raw=true"/>
-[-> PPT file](/pdf/LoanApprovalAnalysis_Python.pptx)
 
+---
+[Virtual learning performance analysis with SQL + interactive dashboard](Proj 3 Virtual Learning Performance Analysis with SQL + dashboard/info3)
+<img src="images/sql_dashboard.png?raw=true"/>
 
 
 
