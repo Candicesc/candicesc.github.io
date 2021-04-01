@@ -22,7 +22,7 @@ Research from Kaggle: https://www.kaggle.com/mirbektoktogaraev/should-this-loan-
 ### 3. Data analysis and visualization with Power BI
 
 Dashboard
-<img src="Proj 2 Credit Risk Analysis via Power BI/powerbi.png?raw=true"/>
+<img src="images/powerbi.png?raw=true"/>
 
 State wise drilldown
 <img src="images/drilldownpowerbi.png?raw=true"/>
