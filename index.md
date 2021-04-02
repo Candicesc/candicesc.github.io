@@ -4,7 +4,7 @@
 
 ### Associate Data Analyst projects
 
-[Loan approval analysis- Machine learning and advanced analytics using Python](Proj 1 ML and advanced analytics with Python/info1)
+[Loan approval analysis- Machine learning and advanced analytics using Python](Proj1_info)
 <img src="images/mleval.png?raw=true"/>
 
 ---
@@ -13,7 +13,7 @@
 <img src="images/powerbi.png?raw=true"/>
 
 ---
-[Virtual learning performance analysis with SQL + interactive dashboard](Proj 3 Virtual Learning Performance Analysis with SQL + dashboard/info3)
+[Virtual learning performance analysis with SQL + interactive Excel dashboard](Proj3_info)
 <img src="images/sql_dashboard.png?raw=true"/>
 
 
