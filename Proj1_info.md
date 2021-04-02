@@ -35,7 +35,7 @@ Visualisation for paid in full status vs defaulted loans by industry, state, ass
 Modeling with Logistic regression, Random forest, Multi level perceptron (classification problem).
 
 To keep in mind when evaluating model performance that a good accuracy doesn't necessarily mean the model performed well. 
-We want to consider metrics like precision, recall, and F1-score to ensure we are evaluating model performance based on the 'cost' of the outcomes.
+We want to consider metrics like precision, recall, and F1-score (weighted average of precision and recall) to ensure we are evaluating model performance based on the 'cost' of the outcomes.
 
 Baseline model Logistic regression yields a decent accuracy at 83%, however the F1-score of 75% for defaulted loans does not appear to be very promising. 
 The precision suggests that the model is correct 80% of the time when the loan defaults.
@@ -46,4 +46,6 @@ Random forest model performs better across the board with a general accuracy of 
 
 <img src="images/mleval.png?raw=true"/>
 
+In general, a model that outperforms another model on both precision and recall is likely the better model.
+In this scenario general accuracy and f1-score could be relied on when the outcomes have similar costs.
 <img src="images/mlrecommendation.png?raw=true"/>
