@@ -10,9 +10,6 @@ Research from Kaggle: https://www.kaggle.com/mirbektoktogaraev/should-this-loan-
 
 ### 2. Exploratory Data Analysis (EDA) and data preparation via Power Query
 
-- Explore and observe the relationships using statistical methods
-- Identify outliers and skewness
-- Assess the data for balance
 - Perform feature engineering, i.e. create and derive new measurement SBA_guarantee%, loan status, industry code etc.
 - Remove anomalies, inconsistencies and outliers
 - Clean unwanted data that won't add value to the analysis
@@ -21,7 +18,7 @@ Research from Kaggle: https://www.kaggle.com/mirbektoktogaraev/should-this-loan-
 
 ### 3. Data analysis and visualization with Power BI
 
-Dashboard
+Interactive dashboard
 <img src="images/powerbi.png?raw=true"/>
 
 State wise drilldown
